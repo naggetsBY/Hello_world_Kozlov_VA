@@ -14,4 +14,4 @@ a = 10
 b = 5
 result = a + b
 print(f"Привет, {name}!")
-print(f"Рузультат сложения {a} + {b} равен {result}") ```
+print(f"Рузультат сложения {a} + {b} равен {result}")```
