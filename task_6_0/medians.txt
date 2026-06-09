@@ -1,0 +1,16 @@
+Boars median age is 4.70 years
+
+Boars median weight is 65.85 kg
+
+Boars median length is 150.10 cm
+
+Boars median shoulder height is 80.40 cm
+
+Boars median tusk length is 9.50 cm
+
+Boars median litter is 5.00 size
+
+Boars median health is 75.00 score
+
+Boars median territory is 4.10 ha
+

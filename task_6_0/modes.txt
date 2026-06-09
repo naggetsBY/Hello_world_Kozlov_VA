@@ -1,0 +1,18 @@
+Boars mode gender is Male gender
+
+Boars mode age is 5.9 years
+
+Boars mode weight is 63.5 kg
+
+Boars mode length is 210.0 cm
+
+Boars mode shoulder height is 80.4 cm
+
+Boars mode tusk length is 0.0 cm
+
+Boars mode litter is 0.0 size
+
+Boars mode health is 100 score
+
+Boars mode territory is 0.8 ha
+

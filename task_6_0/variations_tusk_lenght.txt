@@ -1,0 +1,5 @@
+Coefficient of variations:
+gender
+Female    53.122370
+Male      42.535932
+Name: tusk_length_cm, dtype: float64

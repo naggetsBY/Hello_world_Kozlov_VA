@@ -1,0 +1,32 @@
+Age variance is 4.25 years²
+Age standart deviation is 2.06 years
+Age coefficient of variation is 44.20
+
+Weight variance is 718.08 kg²
+Weight standart deviation is 26.80 kg
+Weight coefficient of variation is 38.42
+
+Length variance is 681.50 cm²
+Length standart deviation is 26.11 cm
+Length coefficient of variation is 17.43
+
+Shoulder height variance is 137.81 cm²
+Shoulder height standart deviation is 11.74 cm
+Shoulder height coefficient of variation is 14.75
+
+Tusk length variance is 26.13 cm²
+Tusk length standart deviation is 5.11 cm
+Tusk length coefficient of variation is 49.87
+
+Litter variance is 8.10 size²
+Litter standart deviation is 2.85 size
+Litter coefficient of variation is 72.74
+
+Health variance is 279.11 score²
+Health standart deviation is 16.71 score
+Health coefficient of variation is 22.23
+
+Territory variance is 3.60 ha²
+Territory standart deviation is 1.90 ha
+Territory coefficient of variation is 44.71
+
